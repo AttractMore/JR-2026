@@ -1,0 +1,20 @@
+[[main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 5
+[[main]]
+  identifier = "homeopathy"
+  name = "Homeopathy"
+  url = "/homeopathy/"
+  weight = 10
+[[main]]
+  identifier = "biography"
+  name = "Biography"
+  url = "/biography/"
+  weight = 20
+[[main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 30

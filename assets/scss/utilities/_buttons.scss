@@ -1,0 +1,32 @@
+.standard-button {
+  display: inline-flex;
+  justify-content: center;
+  margin-bottom: 0;
+  svg {
+    display: block;
+    + a {
+      display: block;
+    }
+  }
+  a,
+  button {
+    border-radius: var(--button-radius);
+    corner-shape: squircle;
+    background-color: var(--orange);
+    border: 1px solid var(--orange);
+    color: var(--off-white);
+    font-family: var(--sans-serif-light);
+    padding: 0.6em 0.5em;
+    line-height: 1;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: color var(--transition-time) var(--transition-ease);
+    &:hover,
+    &:focus {
+      color: var(--dark-blue);
+    }
+  }
+}

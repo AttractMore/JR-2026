@@ -1,0 +1,25 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{{ if .Params.fullTitle }}{{ .Params.fullTitle }}{{ else }}{{ if .Title }}{{ .Title }}{{ end }}{{ end }}&nbsp;&bull;&nbsp;{{ site.Title }}</title>
+
+{{- with resources.Get "css/core.css" }}
+<style>
+  {{ .Content | safeCSS }}
+</style>
+{{- end -}} {{- if .Params.extraStyles -}} {{- with resources.Get .Params.extraStyles -}}
+<style>
+  {{ .Content | safeCSS }}
+</style>
+{{- end -}} {{- end -}} {{- partial "page-meta.html" . }} {{- partial "favicons.html" . }}
+<link rel="alternate" hreflang="en-gb" href="{{ .Permalink }}" />
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "https://www.jackierawhealth.com/",
+    "logo": "https://www.jackierawhealth.com/images/jrh-logo.svg"
+  }
+</script>
+{{- if .IsHome }} {{- hugo.Generator }} {{- end }}

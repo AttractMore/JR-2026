@@ -1,0 +1,42 @@
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4 {
+  font-family: var(--sans-serif-light);
+  color: var(--dark-blue);
+  margin: 0;
+  text-wrap: balance;
+}
+h1,
+.h1 {
+  font-size: clamp(1.75rem, 1.477rem + 1.364vw, 2.5rem);
+  line-height: 1;
+  margin-bottom: 1em;
+}
+h2,
+.h2 {
+  font-size: clamp(1.25rem, 1.068rem + 0.909vw, 1.75rem);
+  line-height: 1;
+  margin-bottom: 1em;
+}
+h3,
+.h3 {
+  font-size: clamp(1.125rem, 0.989rem + 0.682vw, 1.5rem);
+  margin-bottom: 1em;
+}
+
+h4,
+.h4 {
+  font-size: 1em;
+  margin-bottom: 0.5em;
+}
+h5,
+.h5 {
+  font-size: 0.846em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
