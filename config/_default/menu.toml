@@ -14,7 +14,17 @@
   url = "/biography/"
   weight = 20
 [[main]]
+  identifier = "FAQ"
+  name = "FAQ"
+  url = "/faq/"
+  weight = 30
+[[main]]
+  identifier = "pricing"
+  name = "Pricing"
+  url = "/pricing/"
+  weight = 40
+[[main]]
   identifier = "contact"
   name = "Contact"
   url = "/contact/"
-  weight = 30
+  weight = 50

@@ -3,7 +3,10 @@
   <section class="contact-form wrap">
     <div>
       {{ .Content }}
-      <form method="POST" action="/api/submit-contact-form" aria-label="JRH Contact form">
+      <!-- <form method="POST" action="/api/submit-contact-form" aria-label="JRH Contact form"> -->
+      <form id="enquiryform" action="https://submit-form.com/6ga0qjI34" method="POST" aria-label="JRH contact form">
+        <input type="hidden" name="_redirect" value="/thanks/" />
+        <input type="hidden" name="_append" value="false" />
         <input type="hidden" name="subject" value="JRH Contact request" />
         <fieldset>
           <p>
