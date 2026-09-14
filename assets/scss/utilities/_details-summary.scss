@@ -1,8 +1,13 @@
 details {
   padding: 1em 0;
+  summary {
+    &::marker {
+      display: none;
+    }
+  }
 }
 details[open] {
-  summary {
+  .faq-answer {
     padding-top: 1em;
   }
 }
