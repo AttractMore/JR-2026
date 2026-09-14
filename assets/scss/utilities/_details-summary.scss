@@ -2,6 +2,7 @@ details {
   padding: 1em 0;
   summary {
     font-family: var(--sans-serif-medium);
+    cursor: pointer;
     &::marker {
       content: "";
     }
