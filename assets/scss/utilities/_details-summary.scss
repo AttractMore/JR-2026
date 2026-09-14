@@ -4,13 +4,22 @@ details {
     font-family: var(--sans-serif-medium);
     display: flex;
     justify-content: space-between;
+    gap: 1em;
     cursor: pointer;
+    span {
+      transition: transform var(--transition-time) var(--transition-ease);
+    }
     &::marker {
       content: "";
     }
   }
 }
 details[open] {
+  summary {
+    span {
+      rotate: 45deg;
+    }
+  }
   .faqanswer {
     padding-top: 1em;
   }
