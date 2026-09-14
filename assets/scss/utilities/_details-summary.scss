@@ -17,7 +17,7 @@ details {
 details[open] {
   summary {
     span {
-      rotate: 315deg;
+      rotate: -45deg;
     }
   }
   // .faqanswer {
@@ -31,6 +31,7 @@ details[open] {
     content-visibility 0.5s ease allow-discrete;
   height: 0;
   overflow: clip;
+  margin-top: 1em;
 }
 
 /* Browser supports interpolate-size */
