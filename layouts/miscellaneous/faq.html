@@ -1,6 +1,6 @@
 {{- define "main" }}
 <div class="contact" itemscope itemtype="https://schema.org/BlogPosting">
-  <h1> Frequently asked questions</h1>
+  <h1 class="wrap"> Frequently asked questions</h1>
   <section class="faq wrap">
     <div>
       {{ .Content }} {{ $index := 0}} {{ range $faqkey, $faqvalue := $.Param "faq" }}
