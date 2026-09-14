@@ -4,9 +4,11 @@ details {
     font-family: var(--sans-serif-medium);
     display: flex;
     justify-content: space-between;
+    align-items: center;
     gap: 2em;
     cursor: pointer;
     span {
+      font-size: clamp(1.125rem, 1.07rem + 0.275vw, 1.5rem);
       transition: rotate var(--transition-time) var(--transition-ease);
     }
     &::marker {
