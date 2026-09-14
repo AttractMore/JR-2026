@@ -69,4 +69,6 @@ hr {
 img {
   margin: 0 auto;
   max-width: 450px;
+  border-radius: var(--button-radius);
+  corner-shape: squircle;
 }
