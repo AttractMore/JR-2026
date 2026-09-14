@@ -2,13 +2,13 @@
   "name": "jackieraw2026",
   "version": "1.0.0",
   "description": "Jackie Raw Health 2026",
-  "homepage": "https://github.com/AttractMore/jackieraw2026#readme",
+  "homepage": "https://github.com/AttractMore/JR-2026#readme",
   "bugs": {
-    "url": "https://github.com/AttractMore/jackieraw2026/issues"
+    "url": "https://github.com/AttractMore/JR-2026/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AttractMore/jackieraw2026.git"
+    "url": "git+https://github.com/AttractMore/JR-2026.git"
   },
   "license": "ISC",
   "author": "AttractMore (Roger Knight)",
