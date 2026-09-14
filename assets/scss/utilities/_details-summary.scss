@@ -7,7 +7,7 @@ details {
     gap: 1em;
     cursor: pointer;
     span {
-      transition: transform var(--transition-time) var(--transition-ease);
+      transition: rotate var(--transition-time) var(--transition-ease);
     }
     &::marker {
       content: "";
@@ -17,7 +17,7 @@ details {
 details[open] {
   summary {
     span {
-      rotate: 45deg;
+      rotate: 315deg;
     }
   }
   // .faqanswer {
