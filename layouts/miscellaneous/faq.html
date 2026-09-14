@@ -4,7 +4,7 @@
     <div>
       {{ .Content }} {{ $index := 0}} {{ range $faqkey, $faqvalue := $.Param "faq" }}
       <details>
-        <summary>{{$faqvalue.question}}</summary>
+        <summary>{{$faqvalue.question}}<span>+</span></summary>
         <aside class="faqanswer">{{markdownify $faqvalue.answer}}</aside>
       </details>
       <hr />
