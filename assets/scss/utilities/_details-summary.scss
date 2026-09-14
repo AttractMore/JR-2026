@@ -1,0 +1,8 @@
+details {
+  padding: 1em 0;
+}
+details[open] {
+  summary {
+    padding-top: 1em;
+  }
+}
