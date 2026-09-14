@@ -1,0 +1,27 @@
+{{- define "main" }}
+<div class="contact" itemscope itemtype="https://schema.org/BlogPosting">
+  <section class="faq wrap">
+    <div>
+      {{ .Content }}
+      <dl class="faqlist">
+        {{ $index := 0}} {{ range $faqkey, $faqvalue := $.Param "faq" }}
+        <dt class="faquestion"><button aria-controls="answer-{{$faqkey}}" aria-expanded="false">{{$faqvalue.question}}</button></dt>
+        <dd id="answer-{{$faqkey}}">
+          <aside class="faqanswer">{{markdownify $faqvalue.answer}}</aside>
+        </dd>
+        <hr />
+        {{end}}
+      </dl>
+    </div>
+    <div>
+      {{ .Content }} {{ $index := 0}} {{ range $faqkey, $faqvalue := $.Param "faq" }}
+      <details>
+        <summary>{{$faqvalue.question}}</summary>
+        <aside class="faqanswer">{{markdownify $faqvalue.answer}}</aside>
+      </details>
+      <hr />
+      {{- end -}}
+    </div>
+  </section>
+</div>
+{{- end }}{{/* end main */}}
