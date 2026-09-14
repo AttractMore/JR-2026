@@ -4,7 +4,7 @@ details {
     font-family: var(--sans-serif-medium);
     display: flex;
     justify-content: space-between;
-    gap: 1em;
+    gap: 2em;
     cursor: pointer;
     span {
       transition: rotate var(--transition-time) var(--transition-ease);
@@ -20,17 +20,16 @@ details[open] {
       rotate: -45deg;
     }
   }
-  // .faqanswer {
-  //   padding-top: 1em;
-  // }
 }
 
 ::details-content {
   transition:
     height var(--transition-time) var(--transition-ease),
+    margin-top var(--transition-time) var(--transition-ease),
     content-visibility var(--transition-time) var(--transition-ease) allow-discrete;
   height: 0;
   overflow: clip;
+  margin-top: 0;
 }
 
 /* Browser supports interpolate-size */
