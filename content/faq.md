@@ -1,6 +1,6 @@
 ---
 type: miscellaneous
-layout: faqs
+layout: faq
 title: FAQ
 faq:
   - question: Are you just a one man band?
