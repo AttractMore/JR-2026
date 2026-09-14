@@ -3,127 +3,24 @@ type: miscellaneous
 layout: faq
 title: FAQ
 faq:
-  - question: Are you just a one man band?
+  - question: Do You Offer In-Person Sessions?
     answer: >
-      I prefer the term “Sole Practitioner”, but yes the practice is just me,
-      Ian Shirvell. I have worked for many of the larger architects practices in
-      and around Oxford both employed and on a contractual basis. I have
-      acquired a wealth of knowledge over the last 25 years which is the root of
-      my architectural practice. See my [about page](/about/) for more details
-      of my professional experience.
-
-
-      As a sole Practitioner you always get me, I am the single and only point of contact.
-
-      Whilst I do work alone, I am a CIAT central regional committee member enabling a practice support network for like-minded professionals. As a [CIAT member](https://architecturaltechnology.com/) I am bound by a code of conduct and professionalism.
-
-      To offer a full Architectural service I work with carefully selected professionals for my projects such Planning Consultants, Structural Engineers, Approved Inspector, SAP Accessors, Party wall surveyors.
-  - question: Why should I choose you?
+      Yes, many patients prefer face-to-face appointments, time & locality allowing.  However, to offer flexibility, accessibility, and comfort for clients trying to fit homeopathy into busy lives I also see a large number of patients online & via telephone consultations, especially for patients outside the UK.
+  - question: How Do I Book An Appointment & Get Started?
     answer: >
-      Well I’m pretty good at my job! Where appropriate I always try to think
-      out of the box and come up with fresh ideas, I’m always frank and honest
-      with my clients, keep a good dialog and work as efficiently as I can
-      within clear structured fees. With my drawing packages I aim to be as
-      clear and concise as possible “leaving no stone unturned” breaking down
-      complex details.
-
-
-      As a sole Practitioner you always get me, I am the single and only point of contact.
-  - question: How much are your fees?
+      Once you make contact through my website, you’ll hear from me via email & I’ll send some very brief intake paperwork for you to complete in order to register with me.  I will also send some appointment options so that we can schedule your first consultation.
+  - question: Do You Accept Insurance?
     answer: >-
-      **Hourly rate –**  is applied to suit the complexity and scope of your
-      project to an agreed number of hours.
-
-
-      Hourly rate is typically used where the scope or value of the work is uncertain, or a part services is required, such as you may just want a feasibility service to explore options, or maybe only require Planning or Building Regulations drawings.
-
-
-      **Fixed Fees -** is based on a percentage of an estimated build cost and is usually between 8 – 12% for a full architectural service depending on the size and complexity of the project.
-
-
-      (Residential build costs are approximately calculated at £3000 per m2 (as of 9/2/23) + approx. figures for high-cost items such as kitchens and bathrooms etc)
-
-
-      Our fees exclude VAT and expenses, such as travelling and printing.
-
-
-      Fees are broken down into our **workstages** as follows,
-
-
-      **1.** Initial consultation
-
-
-      **3.** Survey and initial design
-
-
-      **5.** Planning application
-
-
-      **35% fee**
-
-
-      **6.** Building regulations & detailed design **35% fee**
-
-
-      **7.** Project Management **35% fee**
-  - question: How do your fees compare with other practices?
+      Yes!  Your treatment with me is covered by the vast majority (95% +) of healthcare providers.  If you have been referred for Homeopathic treatment by one of my clinical colleagues, you are also able to claim your treatment.  It's worth noting, that different providers & schemes may have slightly different levels of cover, so always check with your provider.  Patients are typically reimbursed up to 70-80% of treatment costs.  An online invoice or receipt (or both) will be provided with each consultation.
+  - question: What Forms of Payment Do You Accept?
     answer: >
-      I always aim to offer my clients the best value for money by clear fixed
-      fees based on time calculations and experience of similar projects.
-
-
-      At the moment I am not VAT registered.
-  - question: How do I decide who to employ as my architect?
-    answer: "This is an important decision to make whatever the size or scale of
-      your project. We've written a short guide to help you make the right
-      choice. Our [Guide to choosing an
-      architect](https://www.oradesign.co.uk/choosing-an-architect-or-architect\
-      ural-technologist/) has thoughts and ideas of what to look for when
-      choosing an architecture partner. "
-  - question: Are you a member of any professional bodies?
-    answer: I am a member of the [Chartered Institute of Architectural Technologists
-      (CIAT)](https://architecturaltechnology.com/).
-  - question: How do you manage all these projects when it’s just you?
-    answer: Simple - I only take on a few projects at a time as I feel it is
-      important to give my projects and clients my full attention.
-  - question: What does an Architectural Technologist do?
-    answer: "Architectural Technologists have a professional body – Chartered
-      Institute of Architectural Technologists (CIAT). Chartered Architectural
-      Technologist, MCIAT members, in particular, have undergone rigorous
-      professional training and can offer and deliver ‘the full range of
-      architectural services’ akin to that of an architect. The [CIAT
-      website](https://architecturaltechnology.com//) explains what MCIAT
-      members such as myself are qualified to do. "
-  - question: So, what’s the difference between Architects and Architectural
-      Technologists?
-    answer: >
-      Technologists have often had more experience and training in the science
-      and technology of building, e.g. how and why they are constructed in a
-      certain way, using certain materials, than Architects. Architects are
-      typically more ‘design led’ with greater interest, in the art, aesthetics,
-      and spatial qualities of a project.
-
-
-      However, there are certainly many Architects who are highly technical in their approach and many Architectural Technologist who are very creative, so individuals should be considered on their own merit.
-  - question: Are you insured?
-    answer: To provide peace of mind to all our clients, ORA Design carries
-      Professional Indemnity Insurance, details of which are available upon
-      request.
-  - question: Will you deal with the planning authorities for me?
-    answer: Yes, I can submit applications to the planning authorities and conduct
-      negotiations with them on your behalf to help maximise the chances of full
-      planning approval for your project.
-  - question: Can you provide a cost estimate for my project?
-    answer: Yes I can provide guidance on approximate build costs.
-  - question: How long will my project take to complete?
-    answer: >
-      This depends on many factors and will vary according to the complexity and
-      size of the project. I can plan your project build programme.
-
-
-      Broadly speaking, Statutory approvals can take up to 6 months. The construction phase will depend on the availability of the builders. A typical house extension may take 3 months depending, of course, on the size of the project.
-description: A set of frequently asked questions such as the difference between
-  an architect and an architectural technologist.
+      I accept payment by cash, cheque & bank transfer.  Whichever form of payment you choose, you will be required to pay at the time of your consultation or within 24 hours of receiving your online invoice.
+  - question: What are Your Consultation Charges?
+    answer: An initial consultation is £100.  A Follow-up consultation is £75.  These prices include your homeopathic remedies.
+  - question: What is Your Cancellation Policy?
+    answer: To ensure I am able to provide timely care for every I request a minimum **24 hours' notice** for any cancellations. This policy enables me to offer up appointments for other patients who need urgent care. Clinic is typically booked 4-5 weeks in advance so timely notice of cancellation or rescheduled appointments respect everyones' time.  *Missed appointments without notice will incur a 50% of the full consultation charge cancellation fee.*
+  - question: How Long Are Sessions & How Frequent?
+    answer: An *initial consultation* is up to 75 minutes long.  This allows for a comprehensive understanding of any medical diagnoses & how longstanding the symptoms are, along with broader background and lifestyle questions.  A *Follow-up consultation* lasts 45 minutes.  I typically see patients every 4-5 weeks; the homeopathic prescriptions will easily take you over the time between consultations and allow for an adequate period of observation of your symptoms & any changes therein.
 ---
 
-These are the most common questions that people ask. Click/tap any question below for our response. If your question isn't here or you need further information, please feel free to [contact me](/contact/).
+These are the most common questions that people ask. Click/tap any question below for my response. If your question isn't here or you need further information, please feel free to [contact me](/contact/).
