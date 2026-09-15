@@ -1,24 +1,27 @@
-fieldset {
-  padding: 0;
-  border: none;
-}
-label {
-  font-family: var(--sans-serif);
-  margin-bottom: 0.25em;
-}
-.honey {
-  display: none;
-}
-input::placeholder,
-textarea::placeholder {
-  color: var(--orange);
-}
-input[type="text"],
-input[type="email"],
-textarea {
-  padding: 0.5em 1em;
-  border-radius: 0.75em;
-  border-color: var(--almost-black);
-  max-width: 42rem;
-  width: 100%;
+form {
+  margin-bottom: var(--line-height);
+  fieldset {
+    padding: 0;
+    border: none;
+  }
+  label {
+    font-family: var(--sans-serif);
+    margin-bottom: 0.25em;
+  }
+  .honey {
+    display: none;
+  }
+  input::placeholder,
+  textarea::placeholder {
+    color: var(--orange);
+  }
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    padding: 0.5em 1em;
+    border-radius: 0.75em;
+    border-color: var(--almost-black);
+    max-width: 42rem;
+    width: 100%;
+  }
 }

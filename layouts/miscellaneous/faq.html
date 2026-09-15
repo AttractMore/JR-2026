@@ -2,7 +2,7 @@
 <div class="contact" itemscope itemtype="https://schema.org/BlogPosting">
   <section class="faq wrap">
     <h1>Frequently asked questions</h1>
-    <div>
+    <div class="faq-set">
       {{ .Content }} {{ $index := 0}} {{ range $faqkey, $faqvalue := $.Param "faq" }}
       <details>
         <summary>{{$faqvalue.question}}<span>+</span></summary>
@@ -11,6 +11,9 @@
       <hr />
       {{- end -}}
     </div>
+    <p class="standard-button">
+      <a href="/">Contact</a>
+    </p>
   </section>
 </div>
 {{- end }}{{/* end main */}}

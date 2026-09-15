@@ -19,3 +19,5 @@ The name _homeopathy_ comes from Greek words meaning "similar suffering" and is 
 Homeopathy takes a holistic view of health, recognising that symptoms are not simply isolated problems but expressions of imbalance within the whole person. For this reason, homeopathic treatment focuses on the individual rather than solely on the diagnosis, taking into account physical symptoms as well as emotional and mental wellbeing.
 
 Although these concepts may be new to some people, homeopathy has been practised around the world for more than 200 years and continues to be chosen by individuals seeking a personalised and gentle approach to healthcare.
+
+> "Homeopathy cures a larger percentage of cases than any other form of treatment and is beyond doubt safer, more economical, and the most complete medical science." - <cite>Mahatma Gandhi</cite>
