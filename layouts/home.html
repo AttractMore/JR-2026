@@ -9,40 +9,7 @@
           <a href="/contact/">Contact</a>
         </p>
       </div>
-      <aside>
-        <figure>
-          {{ $alt := .Params.sidebarImage1.alt }}
-          {{ with resources.Get .Params.sidebarImage1.src }} 
-          <img 
-            {{ $originalWidth := .Width }}
-            srcset=" 
-            {{ if gt $originalWidth 700 }}  
-              {{ $image700 := .Resize "700x" }} 
-              {{ $image700.RelPermalink }} 700w, 
-            {{- end -}} 
-            {{ if gt $originalWidth 600 }}  
-              {{ $image600 := .Resize "600x" }} 
-              {{ $image600.RelPermalink }} 600w, 
-            {{- end -}} 
-            {{ if gt $originalWidth 500 }}  
-              {{ $image500 := .Resize "500x" }} 
-              {{ $image500.RelPermalink }} 500w, 
-            {{- end -}} 
-            {{ if gt $originalWidth 400 }}  
-              {{ $image400 := .Resize "400x" }} 
-              {{ $image400.RelPermalink }} 400w, 
-            {{- end -}} 
-            {{ if gt $originalWidth 300 }}  
-              {{ $image300 := .Resize "300x" }} 
-              {{ $image300.RelPermalink }} 300w, 
-            {{- end -}} 
-            {{ .RelPermalink }} {{ $originalWidth }}w
-            "
-            sizes="auto"
-          src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $alt }}" loading="lazy" decoding="async" />
-          {{ end }}
-        </figure>
-      </aside>
+      <aside> {{partial "sidebar-image.html" . }} </aside>
     </article>
   </section>
 </div>

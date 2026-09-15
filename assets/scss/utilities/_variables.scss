@@ -16,7 +16,7 @@ COLOURS
 ***************************************/
   --max-content-width: 1200px;
   --max-content-percentage: 90%;
-  --button-radius: 1.5em;
+  --border-radius: 1.5em;
   --row-gap: 2em;
   --modal-menu-width: 15em;
   --line-height: 1.6em;
@@ -29,7 +29,7 @@ COLOURS
 
   --sans-serif-light: "Poppins 300", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   --sans-serif-light-italic: "Poppins 300 italic", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-  --sans-serif: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --sans-serif: "Poppins 400", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   --sans-serif-medium: "Poppins 500", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   --sans-serif-bold: "Poppins 600", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }

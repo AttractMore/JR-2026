@@ -5,17 +5,17 @@
       {{ .Content }}
       <!-- <form method="POST" action="/api/submit-contact-form" aria-label="JRH Contact form"> -->
       <form id="enquiryform" action="https://submit-form.com/6ga0qjI34" method="POST" aria-label="JRH contact form">
-        <input type="hidden" name="_redirect" value="/thanks/" />
+        <input type="hidden" name="_redirect" value="/thank-you/" />
         <input type="hidden" name="_append" value="false" />
         <input type="hidden" name="subject" value="JRH Contact request" />
         <fieldset>
           <p>
-            <label for="name">Name</label>
+            <label for="name">Your name</label>
             <input name="name" id="name" type="text" maxlength="25" autocomplete="name" placeholder="My name is" required />
           </p>
 
           <p>
-            <label for="email">Email</label>
+            <label for="email">Your email</label>
             <input name="email" id="email" type="email" autocomplete="email" placeholder="My email address is" maxlength="100" required />
           </p>
 
