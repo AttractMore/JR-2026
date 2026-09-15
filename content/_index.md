@@ -1,6 +1,7 @@
 ---
-title: "Introduction"
+title: "Home"
 params:
+  pageTitle: Introduction
   sidebarImage1:
     src: "/images/jackie-raw.jpg"
     alt: "Jackie Raw"

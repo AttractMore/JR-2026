@@ -18,7 +18,7 @@ faq:
   - question: What are Your Consultation Charges?
     answer: An initial consultation is £100.  A Follow-up consultation is £75.  These prices include your homeopathic remedies.
   - question: What is Your Cancellation Policy?
-    answer: To ensure I am able to provide timely care for every I request a minimum **24 hours' notice** for any cancellations. This policy enables me to offer up appointments for other patients who need urgent care. Clinic is typically booked 4-5 weeks in advance so timely notice of cancellation or rescheduled appointments respect everyones' time.  **Missed appointments without notice will incur a 50% of the full consultation charge cancellation fee.**
+    answer: To ensure I am able to provide timely care for everyone, I request a minimum **24 hours' notice** for any cancellations. This policy enables me to offer up appointments for other patients who need urgent care. Clinic is typically booked 4-5 weeks in advance so timely notice of cancellation or rescheduled appointments respect everyones' time.  **Missed appointments without notice will incur a 50% of the full consultation charge cancellation fee.**
   - question: How Long Are Sessions & How Frequent?
     answer: An **initial consultation** is up to 75 minutes long.  This allows for a comprehensive understanding of any medical diagnoses & how longstanding the symptoms are, along with broader background and lifestyle questions.  A **Follow-up consultation** lasts 45 minutes.  I typically see patients every 4-5 weeks; the homeopathic prescriptions will easily take you over the time between consultations and allow for an adequate period of observation of your symptoms & any changes therein.
 ---
