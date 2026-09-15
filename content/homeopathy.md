@@ -8,7 +8,9 @@ Due to the highly-diluted nature of homeopathic remedies, they are considered sa
 
 It is estimated that over 200 million people use Homeopathy across more than 80 countries - its popularity and its market share continue to expand globally.
 
-> "There have been two great revelations in my life: The first was bepop, the second was homeopathy" - <cite>Dizzy Gillespie</cite>
+> There have been two great revelations in my life: The first was bepop, the second was homeopathy.
+
+<cite>Dizzy Gillespie</cite>
 
 ## How Was Homeopathy Discovered?
 
@@ -20,4 +22,6 @@ Homeopathy takes a holistic view of health, recognising that symptoms are not si
 
 Although these concepts may be new to some people, homeopathy has been practised around the world for more than 200 years and continues to be chosen by individuals seeking a personalised and gentle approach to healthcare.
 
-> "Homeopathy cures a larger percentage of cases than any other form of treatment and is beyond doubt safer, more economical, and the most complete medical science." - <cite>Mahatma Gandhi</cite>
+> Homeopathy cures a larger percentage of cases than any other form of treatment and is beyond doubt safer, more economical, and the most complete medical science.
+
+<cite>Mahatma Gandhi</cite>

@@ -14,4 +14,6 @@ She is passionate about supporting each patient in managing & resolving their co
 
 Outside of Homeopathy Jackie is a lifelong dog person & has rescued & rehabilitated German Shepherd Dogs for 30 years 🐺
 
-> "I don't think I'd be around today if it weren't for Homeopathy" - <cite>Cher</cite>
+> I don't think I'd be around today if it weren't for Homeopathy.
+
+<cite>Cher</cite>

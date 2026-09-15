@@ -2,12 +2,43 @@ blockquote {
   font-family: var(--sans-serif-light-italic);
   font-style: italic;
   font-weight: 300;
+  p {
+    color: var(--dark-blue);
+    quotes: auto;
+    margin: 0 0 0.25em 1em;
+
+    &:before,
+    &:after {
+      content: open-quote;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 4rem;
+      color: var(--orange);
+      margin: 0.7rem 0 0 -2rem;
+      position: absolute;
+      opacity: 0.5;
+    }
+    &:after {
+      content: close-quote;
+      margin: 0.7rem 0 0 0;
+    }
+  }
 }
 cite {
-  display: inline;
-  font-family: var(--sans-serif-light);
+  font-family: var(--sans-serif);
   font-style: normal;
+  margin-left: 1em;
 }
-blockquote {
-  color: var(--dark-blue);
-}
+// blockquote::before,
+// blockquote::after {
+//   content: "“";
+//   font-family: Georgia;
+//   font-size: 8rem;
+//   margin: -2rem 0 0 -4rem;
+//   position: absolute;
+//   opacity: 0.5;
+// }
+
+// blockquote::after {
+//   content: "”";
+//   margin: -1rem -4rem 0 0;
+// }
